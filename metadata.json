@@ -1,0 +1,6 @@
+{
+  "name": "A.I.D.A – Artificial Intelligence Desktop Assistant",
+  "description": "An immersive virtual AI desktop assistant platform featuring realistic 3D human avatars, audio-driven lip synchronization, voice/text interaction, and 7 specialized AI intelligence modes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
